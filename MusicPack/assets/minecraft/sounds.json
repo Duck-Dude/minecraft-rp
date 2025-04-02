@@ -1,0 +1,106 @@
+{
+  "custom.beginning": {
+    "sounds": [
+      {
+        "name": "custom/beginning",
+        "stream": true
+      }
+    ]
+  },
+  "custom.blossom_tea": {
+    "sounds": [
+      {
+        "name": "custom/blossom_tea",
+        "stream": true
+      }
+    ]
+  },
+  "custom.croissant": {
+    "sounds": [
+      {
+        "name": "custom/croissant",
+        "stream": true
+      }
+    ]
+  },
+  "custom.emotional": {
+    "sounds": [
+      {
+        "name": "custom/emotional",
+        "stream": true
+      }
+    ]
+  },
+  "custom.golden_opportunity": {
+    "sounds": [
+      {
+        "name": "custom/golden_opportunity",
+        "stream": true
+      }
+    ]
+  },
+  "custom.harmony": {
+    "sounds": [
+      {
+        "name": "custom/harmony",
+        "stream": true
+      }
+    ]
+  },
+  "custom.instruments": {
+    "sounds": [
+      {
+        "name": "custom/instruments",
+        "stream": true
+      }
+    ]
+  },
+  "custom.meowsynth": {
+    "sounds": [
+      {
+        "name": "custom/meowsynth",
+        "stream": true
+      }
+    ]
+  },
+  "custom.relaxation": {
+    "sounds": [
+      {
+        "name": "custom/relaxation",
+        "stream": true
+      }
+    ]
+  },
+  "custom.sleepy": {
+    "sounds": [
+      {
+        "name": "custom/sleepy",
+        "stream": true
+      }
+    ]
+  },
+  "custom.snowfall": {
+    "sounds": [
+      {
+        "name": "custom/snowfall",
+        "stream": true
+      }
+    ]
+  },
+  "custom.stal": {
+    "sounds": [
+      {
+        "name": "custom/stal",
+        "stream": true
+      }
+    ]
+  },
+  "custom.strad": {
+    "sounds": [
+      {
+        "name": "custom/strad",
+        "stream": true
+      }
+    ]
+  }
+}
