@@ -1,2 +1,2 @@
-# minecraft-rp
-rp
+# Music pack
+Music Pack
